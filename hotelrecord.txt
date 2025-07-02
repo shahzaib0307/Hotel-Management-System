@@ -1,0 +1,4 @@
+musab D 1 2 20000 16000
+zain P 1 2 14000 12000
+suffian N 1 2 8000 16000
+shahzaib S 1 2 4000 12000
